@@ -2,7 +2,6 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Project Project</title>
   </head>
   <body>
     <h1>Activity_Bootstrap</h2>
